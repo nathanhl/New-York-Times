@@ -1,0 +1,19 @@
+.jumbotron{
+	background-color: #87ceeb;
+	color: #ffffff;
+	font-family: georgia;
+}
+
+.panel-heading{
+	background-color: #87ceeb;
+	color: #ffffff;
+	font-family: georgia;
+
+}
+
+body, h3{
+	color: #000000;
+	font-family: georgia;
+	font-size: 12px;
+	font-weight: bold;
+}
